@@ -45,8 +45,8 @@ Once deployed, your live web application will be accessible at:
 https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPOSITORY_NAME>/
 ```
 
-For example, if your GitHub username is `johndoe` and the repository is `react-calculator`:
-* **Live Web App URL**: `https://johndoe.github.io/react-calculator/`
+For example, with your GitHub username `Milan345mn` and repository `smart-link`:
+* **Live Web App URL**: `https://Milan345mn.github.io/smart-link/`
 
 ---
 
