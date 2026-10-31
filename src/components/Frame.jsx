@@ -3,7 +3,7 @@ import Screen from './Screen'
 import Button from './Button'
 
 // Safe math expression evaluator (replaces dangerous eval)
-const evaluateExpression = (expression) => {
+export const evaluateExpression = (expression) => {
   try {
     // Only allow numbers, operators, and decimal points
     if (!/^[\d+\-*/.() ]+$/.test(expression)) {
