@@ -41,7 +41,7 @@ const Frame = () => {
 
   return (
     <div className="frame">
-      <div className="calculator-title">React Calculator</div>
+      <div className="calculator-title">React Calculator (CI/CD Verified)</div>
       <Screen question={question} answer={answer} />
       <div className="button-row">
         <Button label="1" handleClick={handleClick} type="input" />
